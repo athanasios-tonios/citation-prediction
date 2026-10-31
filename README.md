@@ -62,6 +62,6 @@ Open `citation_prediction.ipynb` in Jupyter and run all cells. With the included
 - [GitHub](https://github.com/athanasios-tonios)
 
 **Panagiotis Trypos**
-- [Website / Portfolio](https://ptrypos.me)
 - [GitHub](https://github.com/ptrypos)
+- [Website / Portfolio](https://ptrypos.me)
 - [LinkedIn](https://www.linkedin.com/in/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%84%CF%81%CF%8D%CF%80%CE%BF%CF%82-983abb242)
